@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+requests
+python-dotenv
+google-genai
+Pillow
+numpy
+tensorflow>=2.20,<2.21
+tensorflowjs>=4.22,<5
